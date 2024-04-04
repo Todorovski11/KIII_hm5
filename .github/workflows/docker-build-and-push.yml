@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: Todorovski11/KIII_hm5:latest
+          tags: todorovski11/kiii_hm5:latest
